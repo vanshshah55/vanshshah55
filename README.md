@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently Working On<br>Developing an AI-driven Business Intelligence system.<br><br>🤝 Looking to Collaborate On<br>Innovative AI and Machine Learning projects.<br><br>🆘 Looking for Help With<br>Integrating real-time data processing and improving AI model efficiency for large-scale applications.<br><br>📚 Currently Learning<br>Advanced Generative AI techniques.<br>❓ Ask Me About <br>My AI projects, web development with React, or MERN Stack.<br>
+👨‍💻 Currently Working On<br>Developing an AI-driven Business Intelligence system.<br><br>🤝 Looking to Collaborate On<br>Innovative AI and Machine Learning projects.<br><br>🆘 Looking for Help With<br>Integrating real-time data processing and improving AI model efficiency for large-scale applications.<br><br>📚 Currently Learning<br>Advanced Generative AI techniques. <br>❓ Ask Me About <br>My AI projects, web development with React, or MERN Stack.<br>
 
 
 ## 🌐 Socials:
