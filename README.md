@@ -1,6 +1,4 @@
 # 💫 About Me:
-👨‍💻 Currently Working On<br>Developing an AI-driven Business Intelligence system.<br><br>🤝 Looking to Collaborate On<br>Innovative AI and Machine Learning projects.<br><br>🆘 Looking for Help With<br>Integrating real-time data processing and improving AI model efficiency for large-scale applications.<br><br>📚 Currently Learning<br>Advanced Generative AI techniques. <br><br>❓ Ask Me About <br>My AI projects, web development with React, or MERN Stack.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vanshshah55) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vanshshah55) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vips.vansh@gmail.com) 
