@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=55&pause=250&color=00FFD2&center=true&vCenter=true&width=600&height=100&lines=AI/ML+ENGINEER;FS+DEVELOPER;DATA+ANALST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=55&pause=250&color=00FFD2&center=true&vCenter=true&width=600&height=100&lines=AI/ML+ENGINEER;FS+DEVELOPER;DATA+ANALYST" alt="Typing SVG" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=4000&pause=1000&color=6BDDFF&center=true&vCenter=true&width=600&lines=Crafting+intelligent+solutions+for+real-world+problems;Building+the+bridge+between+humans+and+technology;Transforming+data+into+actionable+intelligence;Where+code+meets+creativity+and+innovation" alt="Typing SVG" /></a>
 
