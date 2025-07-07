@@ -2,18 +2,20 @@
   
 # <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" width="35" height="35" alt="Rocket"/> <span style="font-family: 'Montserrat', sans-serif;">VANSH SHAH</span> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="35" height="35" alt="Fire"/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="20"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=55&pause=250&color=00FFD2&center=true&vCenter=true&width=600&height=100&lines=AI/ML+ENGINEER;FS+DEVELOPER;DATA+ANALYST" alt="Typing SVG" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=4000&pause=1000&color=6BDDFF&center=true&vCenter=true&width=600&lines=Crafting+intelligent+solutions+for+real-world+problems;Building+the+bridge+between+humans+and+technology;Transforming+data+into+actionable+intelligence;Where+code+meets+creativity+and+innovation" alt="Typing SVG" /></a>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20"/>
+
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" /> About Me
 
@@ -39,7 +41,7 @@ I'm an **Artificial Intelligence & Machine Learning Engineer** passionate about 
   </a>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="20"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Universe
 
@@ -73,7 +75,7 @@ I'm an **Artificial Intelligence & Machine Learning Engineer** passionate about 
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,vscode,figma,postman&theme=dark&perline=8" alt="Tools & DevOps" />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="20"/>
 
 ## 🚀 My Coding Journey
 
@@ -93,7 +95,8 @@ I'm an **Artificial Intelligence & Machine Learning Engineer** passionate about 
   </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20"/>
 
 
 
@@ -103,7 +106,7 @@ I'm an **Artificial Intelligence & Machine Learning Engineer** passionate about 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshshah55&bg_color=0D1117&color=00FFFF&line=00FF00&point=FF00FF&area=true&hide_border=true" width="100%" alt="Activity Graph">
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20"/>
 
 ## 🐍 Contribution Snake
 
@@ -115,7 +118,7 @@ I'm an **Artificial Intelligence & Machine Learning Engineer** passionate about 
   </picture>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20"/>
 
 ## 📊 Profile Stats
 
